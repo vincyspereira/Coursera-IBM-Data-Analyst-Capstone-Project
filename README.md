@@ -1,4 +1,4 @@
-#IBM Data Analyst Capstone Project
+IBM Data Analyst Capstone Project
 by IBM
 
 About this Course
